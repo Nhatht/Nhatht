@@ -64,7 +64,17 @@
   </a>
 </div>
 
+
+<h2 align="center">🏅 Certificates 🏅</h2>
 <br>
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/VBXQNJN3UDCC)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to HTML5](https://www.coursera.org/account/accomplishments/specialization/certificate/NZP7KZ79ZB2M)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to CSS3](https://www.coursera.org/account/accomplishments/specialization/certificate/6XTQ778AEYYY)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/specialization/certificate/B8GZTSUM5JBA)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/specialization/certificate/JD73YQBSHNXY)
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
