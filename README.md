@@ -3,7 +3,15 @@
   <img src="svg/nhatht.svg" width="1200" alt="nhatht-official" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h1 align="center">🙎‍♂️ Hi 👋, I'm Trinh Nhat 🙎‍♂️</h1>
+
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
+- ✍ I'm a student software engineering at FPT HCM Campus University.
+<br />
+<br>
+<h1 align="center">🛠 Technologies and Tools 🛠</h1>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -34,7 +42,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h1 align="center">🔥 GitHub Stats 🔥</h1>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
   <a href="#" title="nhatht">
@@ -46,7 +54,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h1 align="center">👽 Where to find me 👽</h1>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -65,7 +73,7 @@
 </div>
 
 <br>
-<h2 align="center">🏅 Certificates 🏅</h2>
+<h1 align="center">🏅 Certificates 🏅</h1>
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
@@ -77,7 +85,7 @@
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Academic Skills for University Success](https://www.coursera.org/account/accomplishments/specialization/certificate/JD73YQBSHNXY)
 
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h1 align="center">📑 My Favorites Quote 📑</h1>
 <br>
 <a href="#" target="_blank">
   <img src="svg/nhatht-quotes.svg" width="846" height="150" alt="nhatht-official" />
