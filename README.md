@@ -14,9 +14,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ApacheNetbeanside-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="ApacheNetbeanside logo" title="ApacheNetbeanside" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Netbean-282C34?logo=apachenetbeanside&logoColor=#1B6AC6" alt="ApacheNetbeanside logo" title="ApacheNetbeanside" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="C logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=#A86454" alt="Pug logo" title="Pug" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
