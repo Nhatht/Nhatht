@@ -76,7 +76,7 @@
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computer Communications](https://www.coursera.org/account/accomplishments/specialization/certificate/B8GZTSUM5JBA)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Academic Skills for University Success](https://www.coursera.org/account/accomplishments/specialization/certificate/JD73YQBSHNXY)
 
-<br>
+
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
